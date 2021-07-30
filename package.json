@@ -1,0 +1,22 @@
+{
+  "name": "minibrowser",
+  "version": "1.0.0",
+  "description": "Mini-Browser",
+  "main": "index.js",
+  "scripts": {
+    "serve": "ts-node server.ts",
+    "net": "ts-node server2.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.zhlh6.cn:wycbk/MiniBrowser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.4.7",
+    "ts-node": "^10.1.0",
+    "typescipt": "^1.0.0"
+  }
+}
